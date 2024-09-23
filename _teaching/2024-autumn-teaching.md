@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Multivariable Calculus"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Stanford University, ICME"
-date: Autumn 2024
+date: 2024-09-23
 location: "Stanford, CA"
 ---
 
