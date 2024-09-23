@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "CME100: Vector Calculus"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Multivariable Calculus"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+venue: "Stanford University, ICME"
+date: Autumn 2024
+location: "Stanford, CA"
