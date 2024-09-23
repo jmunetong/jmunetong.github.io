@@ -1,5 +1,5 @@
 ---
-title: "CME100: Vector Calculus"
+title: "CME100: Vector Calculus (Autumn 2024)"
 collection: teaching
 type: "Undergraduate Multivariable Calculus"
 permalink: /teaching/2024-autumn-teaching.md
