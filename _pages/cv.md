@@ -11,24 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computational Mathematics & Engineering, Stanford University, 2025
+* B.S. in Statistics, Brown University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* June 2024 - September 2024: Research Scientist Intern
+  * Adobe Research
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* June 2023 - September 2023: Machine Learning Engineer Intern
+  * Adobe
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
+* September 2022 - June 2023: Machine Learning Engineer II
+  * R-Dex Systems
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* September June 2021 - June 2022: Machine Learning Engineer I
+  * R-Dex Systems
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
