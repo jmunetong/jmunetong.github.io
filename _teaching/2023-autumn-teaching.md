@@ -1,12 +1,12 @@
 ---
-title: "CME100: Vector Calculus (Spring 2024)"
+title: "CME100: Vector Calculus (Autumn 2023)"
 collection: teaching
 type: "Undergraduate Multivariable Calculus"
-permalink: /teaching/2024-spring-teaching.md
+permalink: /teaching/2024-autumn-teaching.md
 venue: "Stanford University, ICME"
-date: 2024-04-01
+date: 2023-09-22
 location: "Stanford, CA"
-professor: Carlos Ayala Bellido & George Ankeney
+professor: Hung Le
 ---
 
 Responsibilities included grading assignments, holding office hours, preparing review sessions, and planning course logistics

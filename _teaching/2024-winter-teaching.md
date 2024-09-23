@@ -1,10 +1,10 @@
 ---
-title: "CME106: Probability and Statistics"
+title: "CME106: Probability and Statistics (Winter 2024)"
 collection: teaching
 type: "Undergraduate Introduction to Probability and Statistics course"
 permalink: /teaching/2024-WINTER-teaching.md
 venue: "Stanford University, ICME"
-date: 2024-09-23
+date: 2024-01-08
 location: "Stanford, CA"
 professor: Vadim Khayms
 ---
