@@ -36,11 +36,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* June 2021 - June 2022: Machine Learning Engineer I
-  * R-Dex Systems
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
 * May 2020 - August 2020: Data Science Intern
   * Nasdaq Machine Intelligence Lab
   * Duties included: Tagging issues
