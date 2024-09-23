@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* June 2024 - September 2024: Research Scientist Intern
-  * Adobe Research
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2021 - June 2022: Machine Learning Engineer I
+  * R-Dex Systems
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
 * June 2023 - September 2023: Machine Learning Engineer Intern
   * Adobe
@@ -31,11 +31,27 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* September June 2021 - June 2022: Machine Learning Engineer I
+*  June 2021 - June 2022: Machine Learning Engineer I
   * R-Dex Systems
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+* June 2021 - June 2022: Machine Learning Engineer I
+  * R-Dex Systems
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* May 2020 - August 2020: Data Science Intern
+  * Nasdaq Machine Intelligence Lab
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* May 2019 - August 2019: Research Intern
+  * New York University Center for Neural Science
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+
 Skills
 ======
 * Skill 1
