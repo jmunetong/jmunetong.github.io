@@ -18,33 +18,34 @@ Work experience
 ======
 * June 2021 - June 2022: Machine Learning Engineer I
   * R-Dex Systems
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Project Name: Efficient Attention Mechanisms
+  * Developed a sub-quadratic run-time self-attention mechanism that leverages vector quantization for keys and queries throguh learnable codebooks. 
+  * Supervisor: Nikos Vlassis
 
 * June 2023 - September 2023: Machine Learning Engineer Intern
   * Adobe
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Yarik Voronyi
 
 * September 2022 - June 2023: Machine Learning Engineer II
   * R-Dex Systems
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Robert Bock
 
 *  June 2021 - June 2022: Machine Learning Engineer I
   * R-Dex Systems
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Robert Bock
 
 * May 2020 - August 2020: Data Science Intern
   * Nasdaq Machine Intelligence Lab
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Douglas Hamilton
 
 * May 2019 - August 2019: Research Intern
   * New York University Center for Neural Science
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Add name of professor here
 
 
 Skills
