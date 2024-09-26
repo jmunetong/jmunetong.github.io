@@ -2,7 +2,7 @@
 title: "CME100: Vector Calculus (Autumn 2023)"
 collection: teaching
 type: "Undergraduate Multivariable Calculus"
-permalink: /teaching/2024-autumn-teaching.md
+permalink: /teaching/2023-autumn-teaching.md
 venue: "Stanford University, ICME"
 date: 2023-09-22
 location: "Stanford, CA"
