@@ -31,9 +31,8 @@ Work experience
   * R-Dex Systems Inc.
   * Supervisor: Robert Bock
 
-*  June 2021 - June 2022: Machine Learning Engineer I
+* June 2021 - June 2022: Machine Learning Engineer I
   * R-Dex Systems Inc.
-  * Duties included: Tagging issues
   * Supervisor: Robert Bock
 
 * May 2020 - August 2020: Data Science Intern
