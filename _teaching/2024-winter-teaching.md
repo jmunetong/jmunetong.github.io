@@ -4,9 +4,12 @@ collection: teaching
 type: "Undergraduate Introduction to Probability and Statistics course"
 permalink: /teaching/2024-winter-teaching.md
 venue: "Stanford University, ICME"
-date: 2024-01-08
+quarters:
+  - Winter 2024
+  - Winter 2025
 location: "Stanford, CA"
 professor: Vadim Khayms
+years:
 ---
 
 Responsibilities included grading assignments, holding office hours, preparing review sessions, and planning course logistics
