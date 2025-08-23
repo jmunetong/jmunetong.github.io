@@ -14,7 +14,8 @@ redirect_from:
 ## Education
 
 **Stanford University** | *Stanford, CA*  
-Master of Science in Computational Mathematics and Engineering | *Expected 2025*
+Master of Science in Computational Mathematics and Engineering | *Expected 2025*  
+*Advisors: Cong Wang, Matthias Kling, Nikos Vlassis*
 
 **Brown University** | *Providence, RI*  
 Bachelor of Science in Statistics with Honors | *2021*  
@@ -56,17 +57,16 @@ Bachelor of Science in Statistics with Honors | *2021*
 **Tools & Platforms:** Git, Docker, AWS, GCP, Jupyter, LaTeX  
 **Specialized:** Generative Modeling, Diffusion Models, Attention Mechanisms, Numerical Linear Algebra
 
-## Publications
-
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-
 ## Teaching Experience
 
-{% for post in site.teaching reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
+**Teaching Assistant** | *Stanford University, ICME* | *2023–Present*
+- CME100: Vector Calculus (Autumn 2023, Spring 2024, Autumn 2024, Spring 2025)
+- Head Teaching Assistant for Spring 2025
+- CME106: Probability and Statistics (Winter 2024, Winter 2025)
+
+**Teaching Assistant** | *Brown University* | *2019–2021*
+- CLPS010: Mind Brain and Behavior (Fall 2019)
+- PHP2650: Statistical Learning & Big Data (Spring 2021)
 
 ## Fellowships & Awards
 
@@ -81,6 +81,3 @@ Bachelor of Science in Statistics with Honors | *2021*
 - Hispanic Scholarship Fund (HSF) Scholar Award – (2023) Awarded
 - Sydney Frank Scholarship – Brown University (2017-2021) Awarded
 
----
-
-*[Download PDF Resume](/files/jmuneton_resume.pdf)*
