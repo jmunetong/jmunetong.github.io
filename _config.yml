@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Juan Muneton Gallego"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Student at Stanford University Interested in Numerical Linear Algebra, Algorithms, Machine Learning, NLP"
+  bio              : "Graduate Student at Stanford University in Computational Mathematics and Engineering with experience in generative modeling, transformer optimization, and large-scale ML pipelines. Background includes research at Adobe and SLAC on efficient attention mechanisms, diffusion models, and robust ML systems, with prior industry work in radar image denoising and adversarial robustness."
   location         : "Stanford, CA"
   employer         : "Stanford University"
   uri              : # URL
