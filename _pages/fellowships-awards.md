@@ -7,8 +7,11 @@ author_profile: true
 
 ## Fellowships
 
-*Add your fellowships here*
+- GEM Fellowship – Awarded through Adobe and Stanford University (2023–2025)
+- SMART Fellowship – U.S. Department of Defense (2023) Offered, declined
+- Amazon Fellowship – Columbia University School of Engineering (2023) Offered, declined
 
 ## Awards
 
-*Add your awards here*
+- Hispanic Scholarship Fund (HSF) Scholar Award – (2023) Awarded
+- Sprint Fellowship – Brown University (2020) Awarded
