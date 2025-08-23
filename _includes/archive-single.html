@@ -49,6 +49,9 @@
       {% if post.quarters %}
         <p><strong>Quarters Taught:</strong> {{ post.quarters | join: ", " }}</p>
       {% endif %}
+      {% if post.semesters %}
+        <p><strong>Semesters Taught:</strong> {{ post.semesters | join: ", " }}</p>
+      {% endif %}
     {% elsif post.collection == 'publications' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% elsif post.date %}

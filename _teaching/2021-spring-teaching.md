@@ -1,10 +1,11 @@
 ---
-title: "PHP2650: Statistical Learning & Big Data (Spring 2021)"
+title: "PHP2650: Statistical Learning & Big Data"
 collection: teaching
 type: "Graduate-Level Statistical Learning course"
 permalink: /teaching/2021-spring-teaching.md
 venue: "Brown University, School of Public Health"
-date: 2023-09-22
+semesters:
+  - Spring 2021
 location: "Providence, RI"
 professor: Alice Paul
 ---
