@@ -10,4 +10,10 @@ location: "Providence, RI"
 professor: Elena Festa
 ---
 
-Responsibilities included grading assignments, holding office hours, preparing review sessions, and planning course logistics
+**Role:** Teaching Assistant
+
+**Responsibilities:**
+- Graded assignments and exams
+- Held weekly office hours for student support
+- Prepared and conducted review sessions before exams
+- Assisted with course logistics and planning
