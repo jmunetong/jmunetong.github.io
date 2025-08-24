@@ -47,27 +47,4 @@ B.S. Statistics (Honors) | *Sep 2017 – May 2021*
 **ML Frameworks:** Supervised and Unsupervised Learning, Fine-tuning, Reinforcement Learning, RAG, Generative Modeling  
 **Mathematical Skills:** Real Analysis, Complex Analysis, Linear Algebra, Probability, Mathematical Statistics
 
-## Teaching Experience
-
-**Teaching Assistant** | *Stanford University, ICME* | *2023–Present*
-- CME100: Vector Calculus (Autumn 2023, Spring 2024, Autumn 2024, Spring 2025)
-- Head Teaching Assistant for Spring 2025
-- CME106: Probability and Statistics (Winter 2024, Winter 2025)
-
-**Teaching Assistant** | *Brown University* | *2019–2021*
-- CLPS010: Mind Brain and Behavior (Fall 2019)
-- PHP2650: Statistical Learning & Big Data (Spring 2021)
-
-## Fellowships & Awards
-
-### Fellowships
-- GEM Fellowship – Awarded through Adobe and Stanford University (2023–2025)
-- SMART Fellowship – U.S. Department of Defense (2023) Offered, declined
-- Amazon Fellowship – Columbia University School of Engineering (2023) Offered, declined
-- Sprint Fellowship – Brown University (2020) Awarded
-
-### Awards
-- Demosthenes Award – Stanford University, ORALCOM118 Romancing the Room (2025) – Awarded in recognition of public speaking abilities and improvement
-- Hispanic Scholarship Fund (HSF) Scholar Award – (2023) Awarded
-- Sydney Frank Scholarship – Brown University (2017-2021) Awarded
 
