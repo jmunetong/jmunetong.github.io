@@ -1,10 +1,10 @@
 ---
-title: "Custom Flash Attention in CUDA from scratch"
+title: "Custom Flash Attention in CUDA From Scratch"
 excerpt: "My own high-performance CUDA implementation of the Flash Attention algorithm for efficient transformer attention computation with memory optimization.<br/><img src='/files/flash.png'>"
 collection: portfolio
 ---
 
-## Custom Flash Attention in CUDA from scratch
+## Custom Flash Attention in CUDA From Scratch
 
 **Project Repository:** [https://github.com/jmunetong/Flash-Attention-CUDA-](https://github.com/jmunetong/Flash-Attention-CUDA-)
 
