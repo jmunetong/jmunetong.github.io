@@ -1,6 +1,6 @@
 ---
 title: "Diffusion-Guided Autoregressive Models for X-ray Diffraction Data Compression"
-excerpt: "Machine learning approach for compressing high-resolution X-ray diffraction data while preserving critical scientific features like Bragg peaks and ring structures.<br/><img src='/files/img.png'>"
+excerpt: "Machine learning approach for compressing high-resolution X-ray diffraction data while preserving critical scientific features like Bragg peaks and ring structures.<br/><img src='/files/autoregression.png'>"
 collection: portfolio
 ---
 
