@@ -27,6 +27,7 @@ author:
   bio              : "🎓 Stanford MS Computational Mathematics & Engineering, 🤖 Generative Modeling, 🔀 Diffusion Models, ⚡ Transformer Optimization, 📈 Large-Scale ML Pipelines, 🧠 Efficient Attention Mechanisms, 🧪 Adobe Research, 🔬 SLAC National Accelerator Lab, 📡 Radar Image Denoising, 🛡️ Adversarial Robustness, 🛠️ ML Engineering, 🚀 CUDA & Parallel Programming, 📊 Statistics (Brown University, Honors)"
   location         : "Stanford, CA"
   employer         : "Stanford University"
+  employer2        : "Brown University"
   uri              : # URL
   email            : "jmuneton@stanford.edu" 
 
