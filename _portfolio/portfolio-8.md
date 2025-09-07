@@ -1,6 +1,6 @@
 ---
 title: "Efficient Self-Attention Mechanisms Via Vector Quantization"
-excerpt: "A PyTorch research project developing novel self-attention mechanisms using vector quantization to achieve sub-quadratic runtime complexity for transformer models.<br/><img src='/images/500x300.png'>"
+excerpt: "A PyTorch research project developing novel self-attention mechanisms using vector quantization to achieve sub-quadratic runtime complexity for transformer models.<br/><img src='/files/vq_attn.png'>"
 collection: portfolio
 ---
 
