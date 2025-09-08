@@ -14,6 +14,7 @@ author_profile: true
 
 ## Awards
 
+- Research Assistantship – Stanford University and SLAC (Summer 2025)
 - Demosthenes Award – Stanford University, ORALCOM118 Romancing the Room (2025) – Awarded in recognition of public speaking abilities and improvement
 - Hispanic Scholarship Fund (HSF) Scholar Award – (2023) Awarded
 - Sydney Frank Scholarship – Brown University (2017-2021) Awarded
