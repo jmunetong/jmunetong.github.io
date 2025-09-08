@@ -1,33 +1,33 @@
 ---
-title: "Selective Fine-Tuning of GPT Models using SPECTRUM"
-excerpt: "Implementation of SPECTRUM algorithm for efficient fine-tuning of GPT models by identifying and targeting the most critical layers using Signal-to-Noise Ratio analysis.<br/><img src='/files/finetunning.png'>"
+title: "WocaR-RL: Worst-case-aware Robust Reinforcement Learning"
+excerpt: "A robust reinforcement learning framework that enhances AI policy resilience against adversarial attacks through worst-case value estimation and state importance weighting.<br/><img src='/files/wocar.png'>"
 collection: portfolio
 ---
 
-## Selective Fine-Tuning of GPT Models using SPECTRUM
+## WocaR-RL: Worst-case-aware Robust Reinforcement Learning
 
-**Project Repository:** [https://github.com/jmunetong/selective_finetunning_gpt](https://github.com/jmunetong/selective_finetunning_gpt)
+**Project Repository:** [https://github.com/jmunetong/wocar_project](https://github.com/jmunetong/wocar_project)
 
 ### Overview
 
-Implementation of the SPECTRUM (Signal-to-Noise Ratio based Parameter Selection for Efficient Fine-tuning) algorithm for GPT models. This project demonstrates an efficient approach to fine-tuning large language models by selectively updating only the most important layers, significantly reducing computational costs while maintaining performance.
+A comprehensive robust reinforcement learning framework developed as part of Stanford University CS234 coursework. WocaR-RL addresses critical vulnerabilities in deep reinforcement learning policies by creating neural networks that maintain performance under adversarial perturbations and attacks.
 
 ### Key Features
 
-- **SPECTRUM Algorithm Implementation:** Signal-to-Noise Ratio computation for layer importance ranking
-- **Selective Layer Training:** Targets only the top N% most critical layers for parameter updates
-- **Efficient Fine-tuning:** Reduces training time and computational requirements
-- **GPT Model Support:** Compatible with various GPT architectures and sizes
-- **Performance Analysis:** Comprehensive evaluation of selective vs. full fine-tuning approaches
+- **Adversarial Robustness:** Advanced algorithms to handle minor perturbations and adversarial examples in RL environments
+- **Worst-case Value Estimation:** Novel approach to evaluate and optimize for worst-case scenarios during policy learning
+- **Multiple Algorithm Implementations:** Vanilla PPO, Robust PPO (R-PPO), and the innovative WocaR-RL PPO
+- **State Importance Weighting:** Sophisticated technique to prioritize critical states during training
+- **Attack-Resilient Policies:** Maintains performance across different attack scenarios without additional sample generation
 
 ### Technical Implementation
 
-- **Language:** Python, PyTorch
-- **Core Algorithm:** SPECTRUM - Signal-to-Noise Ratio based layer selection
-- **Model Architecture:** GPT-based transformer models
-- **Optimization:** Selective parameter updating for efficient training
-- **Analysis Tools:** Layer importance visualization and performance metrics
+- **Languages:** Python 3.7+
+- **Core Frameworks:** PyTorch 2.1.0, Gymnasium 0.29.1
+- **Environment:** MuJoCo physics simulation (primarily Hopper-v4)
+- **Key Techniques:** Convex relaxation, adversarial action space definition, robust policy optimization
+- **Algorithm Focus:** Proximal Policy Optimization with robustness enhancements
 
 ### Research Impact
 
-This implementation demonstrates how to achieve efficient fine-tuning by identifying the most impactful layers in neural networks. The SPECTRUM approach enables significant computational savings while preserving model performance, making it practical for resource-constrained environments and large-scale model deployment.
+This Stanford CS234 project contributes to the critical field of AI safety by developing reinforcement learning algorithms that are inherently robust to adversarial conditions. The WocaR-RL framework represents a significant advancement in creating AI systems that can operate reliably in real-world scenarios where adversarial perturbations are possible, enhancing the practical deployment of RL-based systems.
